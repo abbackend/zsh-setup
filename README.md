@@ -1,3 +1,4 @@
+<img src="https://github.com/abbackend/portfolio/blob/master/channels4_banner.jpg" width="100%"/>
 
 # ZSH Setup
 
